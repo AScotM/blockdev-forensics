@@ -23,7 +23,7 @@ Some kernel data may be unavailable to unprivileged users. Run with elevated pri
 ## Installation
 
 ```bash
-unzip blockdev-forensics.zip
+
 cd blockdev-forensics
 python3 main.py --help
 ```
